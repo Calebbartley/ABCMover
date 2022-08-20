@@ -1,10 +1,12 @@
-import logo from '../assets/logo.png';
+import logo from '../src/assets/logo.png';
+
+import Header from './Header';
 
 
 function App() {
   return (
     <div>
-      <img src={logo} />
+      <Header/>
     </div>
   );
 }
