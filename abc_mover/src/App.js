@@ -12,7 +12,6 @@ function App() {
     <div className='app' >
       <Header/>
       <Body/>
-      
     </div>
   );
 }

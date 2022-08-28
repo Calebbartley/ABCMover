@@ -1,4 +1,7 @@
-
+.slogan{
+    display: flex;
+    justify-content: center;
+}
 
 .logoContainer{
     display: flex;

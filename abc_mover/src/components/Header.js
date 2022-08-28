@@ -9,6 +9,9 @@ function Header() {
         <div className="logoContainer">
           <img src={logo} alt="" className="logo" />
         </div>
+        <div>
+        <h1 className="slogan">Moving things from A to Z</h1>
+        </div>
       </div>
     </div>
   );
