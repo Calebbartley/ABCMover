@@ -1,11 +1,13 @@
-import logo from '../src/assets/logo.png';
+import React from 'react';
+import Header from './components/Header';
+import './App.css'
 
-import Header from './Header';
+
 
 
 function App() {
   return (
-    <div>
+    <div className='app' >
       <Header/>
     </div>
   );
