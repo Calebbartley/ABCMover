@@ -4,7 +4,7 @@ import { Card, Button } from "react-bootstrap";
 function Body() {
   return (
     <div cardContainer >
-      <Card style={{ width: "18rem" }}>
+      <Card border= "primary" style={{ width: "18rem" }}>
         <Card.Img variant="top" src="holder.js/100px180" />
         <Card.Body>
           <Card.Title>Local Moves</Card.Title>
