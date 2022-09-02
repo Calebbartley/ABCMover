@@ -14,3 +14,7 @@ Body{
 .title{
     font-weight: 800;
 }
+
+.logo{
+    size-adjust: 20px;
+}
