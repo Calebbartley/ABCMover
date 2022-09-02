@@ -1,0 +1,16 @@
+Body{
+    justify-content: center;
+}
+
+.cardContainer{
+    display: flex;
+    border: 50px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    font-weight: 800;
+}
